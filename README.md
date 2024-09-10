@@ -14,3 +14,20 @@ Make sure you have enabled USB Debugging on your mobile device (if you are not u
 ## Congratulations! :tada:
 
 You've successfully installed Saathi app on your device. Now go through the application and choose your meal! :partying_face:
+
+## Screenshots
+
+**Home page**
+
+![image](https://github.com/user-attachments/assets/572fca55-d0bd-426b-bf1b-ca70cdb3d822)
+
+
+
+**Order the food of your choice**
+
+![image](https://github.com/user-attachments/assets/fec21c42-4b7d-4242-bd31-5c2e61d0c3ac)
+
+**We even take care of your preferences** 😉
+
+![image](https://github.com/user-attachments/assets/c4937e1d-98f5-4358-aaf5-cf16a24d2902)
+
